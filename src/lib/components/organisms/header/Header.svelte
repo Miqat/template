@@ -7,8 +7,9 @@
   ]
 </script>
 
-<nav class="bg-gray-100 py-4">
-  <div class="max-w-5xl mx-auto flex items-center">
+<nav <header class="z-index shadow h-16 overflow-y-visible relative text-gray-700 bg-white">
+	<div class="hidden items-center justify-between h-full w-full md:flex">
+		<div class="flex items-center h-full ml-6">
     <a class:active="{false}" href="/" class="h-8 w-8 mr-10">
       <img {src} alt="Sveltekit Boilerplate" />
     </a>

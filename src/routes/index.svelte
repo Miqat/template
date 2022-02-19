@@ -3,5 +3,5 @@
 </script>
 
 <div class="main-content fence">
-  Main Content Area
+  Main Content Area Dasboard
 </div>
