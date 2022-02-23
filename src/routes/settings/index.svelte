@@ -1,5 +1,5 @@
 <script></script>
 
-<main class="fence">
+<main class="fence dark:bg-gray-900">
   Content
 </main>

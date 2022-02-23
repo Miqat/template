@@ -2,9 +2,9 @@
   "name": "sveltekit-base",
   "version": "0.0.1",
   "scripts": {
-    "dev": "svelte-kit dev",
+    "dev": "svelte-kit dev --port 4000",           
     "build": "svelte-kit build",
-    "preview": "svelte-kit preview",
+    "preview": "svelte-kit preview --port 4000",
     "lint": "eslint --ignore-path .gitignore .",
     "svelte-check": "svelte-check"
   },
